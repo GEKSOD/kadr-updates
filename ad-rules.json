@@ -1,0 +1,4 @@
+{
+  "payload": "{\"version\":1,\"rules\":[{\"source\":\"kinokino.vip\",\"selectors\":[\"#tgWrapper\",\"#TopAdMb\",\".topAdPad\"]},{\"source\":\"brogiro.cfd\",\"selectors\":[\"#tgWrapper\",\"#TopAdMb\",\".topAdPad\"]}]}",
+  "signature": "XWby8AQQBzl3tdn5DbOfzl7yGG08I7Qb6MTKAAZh41rerZiuRwWYPF7VO/dHnQb2EXADIA7HHfFjPNxZg+mwfh7dsetZJo72kHcUqh4I6XBzKIvLLXNZU7dlkDk+BKFr9fPEjzombtP6YWTvX8QGfoXTUAkuXWm9ciKi5VbxRy6bfYUeSTtuYWkqdOmNG6xBFceYFv+fvweW+sBvJmptvDNLyqao9gEnTkvnZbR0vlRCpok759aC6v7hg/w12IHn6N/9fRvMpCIKLdw/sFPsWEGRNzBe9LKHusiwtMXK8aV1xznizDgGgv+/h2UOklRw96eSa5nnIALFma2cfGVa/Q=="
+}
